@@ -325,7 +325,8 @@ html{scroll-behavior:smooth}
     const done = tips.filter((t) => Number.isFinite(endMs(t)) && endMs(t) <= now).length;
     if (kick) kick.textContent = "Checked " + ukTime(now) + " · updates every minute";
 
-    const card = (id) => document.querySelector('.tip-card[data-id="' + CSS.escape(id) + '"]');
+    // Use the LIVE-tagged stash copy (has the Pot 1 stake/returns lines); fall back to any card.
+    const card = (id) => document.querySelector('#tip-stash .tip-card[data-id="' + CSS.escape(id) + '"]') || document.querySelector('.tip-card[data-id="' + CSS.escape(id) + '"]');
     let html = "";
     html += '<div class="panel note" style="border-left-color:#EA580C">';
     html += live.length
