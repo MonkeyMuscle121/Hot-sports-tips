@@ -4,7 +4,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R] /Count 4 >>
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 5 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
@@ -22,7 +22,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Length 10435 >>
+<< /Length 10985 >>
 stream
 1.000 0.992 0.965 rg 0.00 0.00 595.28 841.89 re f
 0.024 0.078 0.047 rg 0.00 723.89 595.28 118.00 re f
@@ -34,7 +34,7 @@ BT /F4 38 Tf 1.000 0.776 0.161 rg 228.46 765.89 Td (TIPS) Tj ET
 BT /F1 9.5 Tf 1.000 1.000 1.000 rg 36.00 741.89 Td (Number one rule: DO NOT LOSE · every tip 1/2 \(1.50\) or bigger) Tj ET
 1.000 1.000 1.000 rg 461.28 795.89 98.00 20.00 re f
 BT /F4 10 Tf 0.024 0.078 0.047 rg 471.40 801.89 Td (PAPER MONEY) Tj ET
-BT /F1 8.5 Tf 0.812 0.847 0.827 rg 436.91 741.89 Td (Generated Sat 21 Nov 16:42 UK) Tj ET
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 467.12 741.89 Td (Last updated 16:48 UK) Tj ET
 0.843 0.149 0.118 rg 36.00 676.89 523.28 20.00 re f
 1.000 0.776 0.161 rg 36.00 676.89 5.00 20.00 re f
 BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 682.89 Td (POT 1 · AUTO BETS) Tj ET
@@ -59,105 +59,119 @@ BT /F1 6.5 Tf 0.812 0.847 0.827 rg 310.64 620.89 Td (on open slips) Tj ET
 BT /F2 7.5 Tf 1.000 0.776 0.161 rg 443.46 652.89 Td (OPEN BETS) Tj ET
 BT /F2 17 Tf 1.000 1.000 1.000 rg 443.46 632.89 Td (31) Tj ET
 BT /F1 6.5 Tf 0.812 0.847 0.827 rg 443.46 620.89 Td (pending slips) Tj ET
-BT /F2 8 Tf 0.843 0.149 0.118 rg 36.00 600.89 Td (Live \(real-money\) pots: LOCKED. They only unlock when you say so, never automatically.) Tj ET
-0.843 0.149 0.118 rg 36.00 566.89 523.28 20.00 re f
-1.000 0.776 0.161 rg 36.00 566.89 5.00 20.00 re f
-BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 572.89 Td (PLATINUM BETS) Tj ET
-BT /F1 8 Tf 1.000 1.000 1.000 rg 466.35 573.39 Td (Our strongest tips today) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 550.89 Td (KICK-OFF \(UK\)) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 98.00 550.89 Td (SELECTION · EVENT) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 318.00 550.89 Td (MARKET) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 456.00 550.89 Td (ODDS) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 498.00 550.89 Td (CONF) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 531.64 550.89 Td (STAKE) Tj ET
-0.851 0.824 0.753 RG 0.6 w 36.00 546.89 m 559.28 546.89 l S
-0.184 0.435 0.929 rg 36.00 518.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 533.89 Td (12:30) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 523.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 533.89 Td (Erling Haaland to score) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 523.89 Td (Man City v Fulham \(Premier League\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 533.89 Td (Anytime goalscorer) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 533.89 Td (4/7) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 523.89 Td (1.53) Tj ET
-BT /F2 9 Tf 0.094 0.663 0.341 rg 498.00 533.89 Td (63%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 551.93 533.89 Td (-) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 517.39 m 559.28 517.39 l S
-0.184 0.435 0.929 rg 36.00 489.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 504.89 Td (15:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 494.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 504.89 Td (Celtic -1.5) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 494.89 Td (Celtic v St Mirren \(Scottish Prem\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 504.89 Td (Handicap -1.5 \(win by 2+\)) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 504.89 Td (1/2) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 494.89 Td (1.50) Tj ET
-BT /F2 9 Tf 0.094 0.663 0.341 rg 498.00 504.89 Td (62%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 504.89 Td (£26) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 494.89 Td (T2 21-50%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 488.39 m 559.28 488.39 l S
-0.941 0.478 0.086 rg 36.00 460.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 475.89 Td (Sun 01:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 465.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 475.89 Td (Minnesota Timberwolves to win) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 465.89 Td (Grizzlies @ Timberwolves \(NBA\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 475.89 Td (Moneyline) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 475.89 Td (1/2) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 465.89 Td (1.50) Tj ET
-BT /F2 9 Tf 0.094 0.663 0.341 rg 498.00 475.89 Td (63%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 475.89 Td (£35) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 520.50 465.89 Td (T1 top 20%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 459.39 m 559.28 459.39 l S
-0.482 0.247 0.894 rg 36.00 431.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 446.89 Td (Sat evening) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 436.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 446.89 Td (Navajo Stirling to win) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 436.89 Td (Prochazka v Stirling \(UFC Qatar main event\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 446.89 Td (Moneyline) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 446.89 Td (5/9) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 436.89 Td (1.56) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 446.89 Td (61%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 446.89 Td (£26) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 436.89 Td (T2 21-50%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 430.39 m 559.28 430.39 l S
-0.843 0.149 0.118 rg 36.00 400.89 523.28 20.00 re f
-1.000 0.776 0.161 rg 36.00 400.89 5.00 20.00 re f
-BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 406.89 Td (BEST TIPS TODAY) Tj ET
-BT /F1 8 Tf 1.000 1.000 1.000 rg 479.24 407.39 Td (Auto-placed in Pot 1) Tj ET
-0.965 0.945 0.894 rg 36.00 342.89 523.28 50.00 re f
-0.761 0.094 0.478 rg 36.00 342.89 4.00 50.00 re f
-BT /F4 10 Tf 0.063 0.125 0.165 rg 48.00 378.89 Td (BEST DOUBLE 1) Tj ET
-BT /F2 8 Tf 0.063 0.125 0.165 rg 340.56 378.89 Td (2.37 odds · £20 stake · returns £47.43 · 36.6% chance) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 365.89 Td (• Arsenal to win · Newcastle v Arsenal \(Premier League\) · 11/20 · 17:30 UK) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 354.89 Td (• Rangers to win · Motherwell v Rangers \(Scottish Prem\) · 8/15 · 20:00 UK) Tj ET
-0.965 0.945 0.894 rg 36.00 286.89 523.28 50.00 re f
-0.761 0.094 0.478 rg 36.00 286.89 4.00 50.00 re f
-BT /F4 10 Tf 0.063 0.125 0.165 rg 48.00 322.89 Td (BEST DOUBLE 2) Tj ET
-BT /F2 8 Tf 0.063 0.125 0.165 rg 340.56 322.89 Td (2.93 odds · £20 stake · returns £58.68 · 33.1% chance) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 309.89 Td (• Aston Villa to win · Aston Villa v Sunderland \(Premier League\) · 4/5 · 15:00 UK) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 298.89 Td (• Real Madrid -1.75 · Real Madrid v Celta Vigo \(La Liga\) · 8/13 · 20:00 UK) Tj ET
-0.965 0.945 0.894 rg 36.00 219.89 523.28 61.00 re f
-0.761 0.094 0.478 rg 36.00 219.89 4.00 61.00 re f
-BT /F4 10 Tf 0.063 0.125 0.165 rg 48.00 266.89 Td (BEST 3-FOLD) Tj ET
-BT /F2 8 Tf 0.063 0.125 0.165 rg 340.56 266.89 Td (3.44 odds · £20 stake · returns £68.85 · 25.0% chance) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 253.89 Td (• Erling Haaland to score · Man City v Fulham \(Premier League\) · 4/7 · 12:30 UK) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 242.89 Td (• Minnesota Timberwolves to win · Grizzlies @ Timberwolves \(NBA\) · 1/2 · Sun 01:00 UK) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 231.89 Td (• PSG to win · Nice v PSG \(Ligue 1\) · 1/2 · 16:15 UK) Tj ET
-0.965 0.945 0.894 rg 36.00 141.89 523.28 72.00 re f
-0.761 0.094 0.478 rg 36.00 141.89 4.00 72.00 re f
-BT /F4 10 Tf 0.063 0.125 0.165 rg 48.00 199.89 Td (BEST 4-FOLD) Tj ET
-BT /F2 8 Tf 0.063 0.125 0.165 rg 335.85 199.89 Td (5.16 odds · £20 stake · returns £103.28 · 15.5% chance) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 186.89 Td (• Erling Haaland to score · Man City v Fulham \(Premier League\) · 4/7 · 12:30 UK) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 175.89 Td (• Minnesota Timberwolves to win · Grizzlies @ Timberwolves \(NBA\) · 1/2 · Sun 01:00 UK) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 164.89 Td (• PSG to win · Nice v PSG \(Ligue 1\) · 1/2 · 16:15 UK) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 153.89 Td (• Celtic -1.5 · Celtic v St Mirren \(Scottish Prem\) · 1/2 · 15:00 UK) Tj ET
-0.965 0.945 0.894 rg 36.00 52.89 523.28 83.00 re f
-0.761 0.094 0.478 rg 36.00 52.89 4.00 83.00 re f
-BT /F4 10 Tf 0.063 0.125 0.165 rg 48.00 121.89 Td (BEST 5-FOLD) Tj ET
-BT /F2 8 Tf 0.063 0.125 0.165 rg 340.56 121.89 Td (8.06 odds · £20 stake · returns £161.11 · 9.5% chance) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 108.89 Td (• Erling Haaland to score · Man City v Fulham \(Premier League\) · 4/7 · 12:30 UK) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 97.89 Td (• Minnesota Timberwolves to win · Grizzlies @ Timberwolves \(NBA\) · 1/2 · Sun 01:00 UK) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 86.89 Td (• PSG to win · Nice v PSG \(Ligue 1\) · 1/2 · 16:15 UK) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 75.89 Td (• Celtic -1.5 · Celtic v St Mirren \(Scottish Prem\) · 1/2 · 15:00 UK) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 64.89 Td (• Navajo Stirling to win · Prochazka v Stirling \(UFC Qatar main event\) · 5/9 · Sat evening UK) Tj ET
+0.063 0.125 0.165 rg 36.00 550.89 124.82 54.00 re f
+0.843 0.149 0.118 rg 36.00 601.89 124.82 3.00 re f
+BT /F2 7.5 Tf 1.000 0.776 0.161 rg 45.00 588.89 Td (RESULTS) Tj ET
+BT /F2 15 Tf 1.000 1.000 1.000 rg 45.00 568.89 Td (7W · 6L) Tj ET
+BT /F1 6.5 Tf 0.812 0.847 0.827 rg 45.00 556.89 Td (31 still pending) Tj ET
+0.063 0.125 0.165 rg 168.82 550.89 124.82 54.00 re f
+0.843 0.149 0.118 rg 168.82 601.89 124.82 3.00 re f
+BT /F2 7.5 Tf 1.000 0.776 0.161 rg 177.82 588.89 Td (NET P/L) Tj ET
+BT /F2 15 Tf 1.000 0.541 0.541 rg 177.82 568.89 Td (-£49.64) Tj ET
+BT /F1 6.5 Tf 0.812 0.847 0.827 rg 177.82 556.89 Td (ROI -22.9%) Tj ET
+0.063 0.125 0.165 rg 301.64 550.89 124.82 54.00 re f
+0.843 0.149 0.118 rg 301.64 601.89 124.82 3.00 re f
+BT /F2 7.5 Tf 1.000 0.776 0.161 rg 310.64 588.89 Td (STAKED \(SETTLED\)) Tj ET
+BT /F2 15 Tf 1.000 1.000 1.000 rg 310.64 568.89 Td (£217) Tj ET
+BT /F1 6.5 Tf 0.812 0.847 0.827 rg 310.64 556.89 Td (on settled slips) Tj ET
+0.063 0.125 0.165 rg 434.46 550.89 124.82 54.00 re f
+0.843 0.149 0.118 rg 434.46 601.89 124.82 3.00 re f
+BT /F2 7.5 Tf 1.000 0.776 0.161 rg 443.46 588.89 Td (RETURNS) Tj ET
+BT /F2 15 Tf 1.000 1.000 1.000 rg 443.46 568.89 Td (£167.36) Tj ET
+BT /F1 6.5 Tf 0.812 0.847 0.827 rg 443.46 556.89 Td (from settled slips) Tj ET
+BT /F2 7.5 Tf 0.357 0.420 0.451 rg 36.00 538.89 Td (Results, P/L and balance as of 16:48 UK \(confirmed final scores only\).) Tj ET
+BT /F2 8 Tf 0.843 0.149 0.118 rg 36.00 524.89 Td (Live \(real-money\) pots: LOCKED. They only unlock when you say so, never automatically.) Tj ET
+0.843 0.149 0.118 rg 36.00 490.89 523.28 20.00 re f
+1.000 0.776 0.161 rg 36.00 490.89 5.00 20.00 re f
+BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 496.89 Td (PLATINUM BETS) Tj ET
+BT /F1 8 Tf 1.000 1.000 1.000 rg 466.35 497.39 Td (Our strongest tips today) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 474.89 Td (KICK-OFF \(UK\)) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 98.00 474.89 Td (SELECTION · EVENT) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 318.00 474.89 Td (MARKET) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 456.00 474.89 Td (ODDS) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 498.00 474.89 Td (CONF) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 531.64 474.89 Td (STAKE) Tj ET
+0.851 0.824 0.753 RG 0.6 w 36.00 470.89 m 559.28 470.89 l S
+0.184 0.435 0.929 rg 36.00 442.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 457.89 Td (12:30) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 447.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 457.89 Td (Erling Haaland to score) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 447.89 Td (Man City v Fulham \(Premier League\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 457.89 Td (Anytime goalscorer) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 457.89 Td (4/7) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 447.89 Td (1.53) Tj ET
+BT /F2 9 Tf 0.094 0.663 0.341 rg 498.00 457.89 Td (63%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 457.89 Td (£35) Tj ET
+0.843 0.149 0.118 rg 521.28 444.89 34.00 9.50 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 529.28 447.09 Td (LOST) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 441.39 m 559.28 441.39 l S
+0.184 0.435 0.929 rg 36.00 413.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 428.89 Td (15:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 418.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 428.89 Td (Celtic -1.5) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 418.89 Td (Celtic v St Mirren \(Scottish Prem\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 428.89 Td (Handicap -1.5 \(win by 2+\)) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 428.89 Td (1/2) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 418.89 Td (1.50) Tj ET
+BT /F2 9 Tf 0.094 0.663 0.341 rg 498.00 428.89 Td (62%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 428.89 Td (£26) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 418.89 Td (T2 21-50%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 412.39 m 559.28 412.39 l S
+0.941 0.478 0.086 rg 36.00 384.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 399.89 Td (Sun 01:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 389.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 399.89 Td (Minnesota Timberwolves to win) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 389.89 Td (Grizzlies @ Timberwolves \(NBA\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 399.89 Td (Moneyline) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 399.89 Td (1/2) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 389.89 Td (1.50) Tj ET
+BT /F2 9 Tf 0.094 0.663 0.341 rg 498.00 399.89 Td (63%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 399.89 Td (£35) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 520.50 389.89 Td (T1 top 20%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 383.39 m 559.28 383.39 l S
+0.482 0.247 0.894 rg 36.00 355.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 370.89 Td (Sat evening) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 360.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 370.89 Td (Navajo Stirling to win) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 360.89 Td (Prochazka v Stirling \(UFC Qatar main event\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 370.89 Td (Moneyline) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 370.89 Td (5/9) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 360.89 Td (1.56) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 370.89 Td (61%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 370.89 Td (£26) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 360.89 Td (T2 21-50%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 354.39 m 559.28 354.39 l S
+0.843 0.149 0.118 rg 36.00 324.89 523.28 20.00 re f
+1.000 0.776 0.161 rg 36.00 324.89 5.00 20.00 re f
+BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 330.89 Td (BEST TIPS TODAY) Tj ET
+BT /F1 8 Tf 1.000 1.000 1.000 rg 479.24 331.39 Td (Auto-placed in Pot 1) Tj ET
+0.965 0.945 0.894 rg 36.00 266.89 523.28 50.00 re f
+0.761 0.094 0.478 rg 36.00 266.89 4.00 50.00 re f
+BT /F4 10 Tf 0.063 0.125 0.165 rg 48.00 302.89 Td (BEST DOUBLE 1) Tj ET
+BT /F2 8 Tf 0.063 0.125 0.165 rg 340.56 302.89 Td (2.37 odds · £20 stake · returns £47.43 · 36.6% chance) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 289.89 Td (• Arsenal to win · Newcastle v Arsenal \(Premier League\) · 11/20 · 17:30 UK) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 278.89 Td (• Rangers to win · Motherwell v Rangers \(Scottish Prem\) · 8/15 · 20:00 UK) Tj ET
+0.965 0.945 0.894 rg 36.00 210.89 523.28 50.00 re f
+0.761 0.094 0.478 rg 36.00 210.89 4.00 50.00 re f
+BT /F4 10 Tf 0.063 0.125 0.165 rg 48.00 246.89 Td (BEST DOUBLE 2) Tj ET
+BT /F2 8 Tf 0.063 0.125 0.165 rg 340.56 246.89 Td (2.93 odds · £20 stake · returns £58.68 · 33.1% chance) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 233.89 Td (• Aston Villa to win · Aston Villa v Sunderland \(Premier League\) · 4/5 · 15:00 UK) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 222.89 Td (• Real Madrid -1.75 · Real Madrid v Celta Vigo \(La Liga\) · 8/13 · 20:00 UK) Tj ET
+0.965 0.945 0.894 rg 36.00 143.89 523.28 61.00 re f
+0.761 0.094 0.478 rg 36.00 143.89 4.00 61.00 re f
+BT /F4 10 Tf 0.063 0.125 0.165 rg 48.00 190.89 Td (BEST 3-FOLD) Tj ET
+BT /F2 8 Tf 0.063 0.125 0.165 rg 340.56 190.89 Td (3.44 odds · £20 stake · returns £68.85 · 25.0% chance) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 177.89 Td (• Erling Haaland to score · Man City v Fulham \(Premier League\) · 4/7 · 12:30 UK) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 166.89 Td (• Minnesota Timberwolves to win · Grizzlies @ Timberwolves \(NBA\) · 1/2 · Sun 01:00 UK) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 155.89 Td (• PSG to win · Nice v PSG \(Ligue 1\) · 1/2 · 16:15 UK) Tj ET
+0.965 0.945 0.894 rg 36.00 65.89 523.28 72.00 re f
+0.761 0.094 0.478 rg 36.00 65.89 4.00 72.00 re f
+BT /F4 10 Tf 0.063 0.125 0.165 rg 48.00 123.89 Td (BEST 4-FOLD) Tj ET
+BT /F2 8 Tf 0.063 0.125 0.165 rg 335.85 123.89 Td (5.16 odds · £20 stake · returns £103.28 · 15.5% chance) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 110.89 Td (• Erling Haaland to score · Man City v Fulham \(Premier League\) · 4/7 · 12:30 UK) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 99.89 Td (• Minnesota Timberwolves to win · Grizzlies @ Timberwolves \(NBA\) · 1/2 · Sun 01:00 UK) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 88.89 Td (• PSG to win · Nice v PSG \(Ligue 1\) · 1/2 · 16:15 UK) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 77.89 Td (• Celtic -1.5 · Celtic v St Mirren \(Scottish Prem\) · 1/2 · 15:00 UK) Tj ET
 0.851 0.824 0.753 RG 0.6 w 36.00 30.00 m 559.28 30.00 l S
 BT /F2 7.5 Tf 0.357 0.420 0.451 rg 36.00 18.00 Td (RED HOT TIPS · PAPER BETTING ONLY · NO REAL MONEY) Tj ET
 BT /F1 7.5 Tf 0.357 0.420 0.451 rg 478.41 18.00 Td (SAT 21 NOV 2026 · UK) Tj ET
@@ -167,254 +181,271 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 10 0 R >>
 endobj
 10 0 obj
-<< /Length 16794 >>
+<< /Length 18222 >>
 stream
 1.000 0.992 0.965 rg 0.00 0.00 595.28 841.89 re f
 0.024 0.078 0.047 rg 0.00 811.89 595.28 30.00 re f
 0.843 0.149 0.118 rg 0.00 808.89 595.28 3.00 re f
 BT /F4 13 Tf 1.000 1.000 1.000 rg 36.00 820.89 Td (RED HOT) Tj ET
 BT /F4 13 Tf 1.000 0.776 0.161 rg 101.84 820.89 Td (TIPS) Tj ET
-BT /F2 9 Tf 1.000 1.000 1.000 rg 456.41 821.89 Td (SAT 21 NOV 2026 · UK) Tj ET
-0.843 0.149 0.118 rg 36.00 769.89 523.28 20.00 re f
-1.000 0.776 0.161 rg 36.00 769.89 5.00 20.00 re f
-BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 775.89 Td (ALL TIPS BY SPORT) Tj ET
-BT /F1 8 Tf 1.000 1.000 1.000 rg 366.51 776.39 Td (Sorted by confidence · stake = tiered single in Pot 1) Tj ET
-0.184 0.435 0.929 rg 36.00 747.89 8.00 14.00 re f
-BT /F4 10.5 Tf 0.063 0.125 0.165 rg 50.00 750.89 Td (FOOTBALL · TOP LEAGUES \(UK & EUROPE\)) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 535.71 750.89 Td (12 tips) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 733.89 Td (KICK-OFF \(UK\)) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 98.00 733.89 Td (SELECTION · EVENT) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 318.00 733.89 Td (MARKET) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 456.00 733.89 Td (ODDS) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 498.00 733.89 Td (CONF) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 531.64 733.89 Td (STAKE) Tj ET
-0.851 0.824 0.753 RG 0.6 w 36.00 729.89 m 559.28 729.89 l S
-0.184 0.435 0.929 rg 36.00 701.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 716.89 Td (12:30) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 706.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 716.89 Td (Erling Haaland to score) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 706.89 Td (Man City v Fulham \(Premier League\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 716.89 Td (Anytime goalscorer) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 716.89 Td (4/7) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 706.89 Td (1.53) Tj ET
-BT /F2 9 Tf 0.094 0.663 0.341 rg 498.00 716.89 Td (63%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 551.93 716.89 Td (-) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 700.39 m 559.28 700.39 l S
-0.184 0.435 0.929 rg 36.00 672.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 687.89 Td (16:15) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 677.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 687.89 Td (PSG to win) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 677.89 Td (Nice v PSG \(Ligue 1\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 687.89 Td (Match result) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 687.89 Td (1/2) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 677.89 Td (1.50) Tj ET
-BT /F2 9 Tf 0.094 0.663 0.341 rg 498.00 687.89 Td (63%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 687.89 Td (£35) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 520.50 677.89 Td (T1 top 20%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 671.39 m 559.28 671.39 l S
-0.184 0.435 0.929 rg 36.00 643.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 658.89 Td (15:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 648.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 658.89 Td (Celtic -1.5) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 648.89 Td (Celtic v St Mirren \(Scottish Prem\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 658.89 Td (Handicap -1.5 \(win by 2+\)) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 658.89 Td (1/2) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 648.89 Td (1.50) Tj ET
-BT /F2 9 Tf 0.094 0.663 0.341 rg 498.00 658.89 Td (62%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 658.89 Td (£26) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 648.89 Td (T2 21-50%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 642.39 m 559.28 642.39 l S
-0.184 0.435 0.929 rg 36.00 614.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 629.89 Td (17:30) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 619.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 629.89 Td (Arsenal to win) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 619.89 Td (Newcastle v Arsenal \(Premier League\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 629.89 Td (Match result) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 629.89 Td (11/20) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 619.89 Td (1.55) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 629.89 Td (61%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 629.89 Td (£26) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 619.89 Td (T2 21-50%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 613.39 m 559.28 613.39 l S
-0.184 0.435 0.929 rg 36.00 585.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 600.89 Td (20:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 590.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 600.89 Td (Rangers to win) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 590.89 Td (Motherwell v Rangers \(Scottish Prem\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 600.89 Td (Match result) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 600.89 Td (8/15) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 590.89 Td (1.53) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 600.89 Td (60%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 600.89 Td (£26) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 590.89 Td (T2 21-50%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 584.39 m 559.28 584.39 l S
-0.184 0.435 0.929 rg 36.00 556.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 571.89 Td (15:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 561.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 571.89 Td (Aston Villa to win) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 561.89 Td (Aston Villa v Sunderland \(Premier League\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 571.89 Td (Match result) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 571.89 Td (4/5) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 561.89 Td (1.80) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 571.89 Td (58%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 571.89 Td (£26) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 561.89 Td (T2 21-50%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 555.39 m 559.28 555.39 l S
-0.184 0.435 0.929 rg 36.00 527.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 542.89 Td (20:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 532.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 542.89 Td (Real Madrid -1.75) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 532.89 Td (Real Madrid v Celta Vigo \(La Liga\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 542.89 Td (Asian handicap -1.75) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 542.89 Td (8/13) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 532.89 Td (1.63) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 542.89 Td (57%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 542.89 Td (£17) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 532.89 Td (T3 51-75%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 526.39 m 559.28 526.39 l S
-0.184 0.435 0.929 rg 36.00 498.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 513.89 Td (12:30) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 503.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 513.89 Td (BTTS: Yes) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 503.89 Td (Man City v Fulham \(Premier League\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 513.89 Td (Both teams to score) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 513.89 Td (4/6) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 503.89 Td (1.68) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 513.89 Td (57%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 551.93 513.89 Td (-) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 497.39 m 559.28 497.39 l S
-0.184 0.435 0.929 rg 36.00 469.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 484.89 Td (15:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 474.89 Td (UK) Tj ET
-0.843 0.149 0.118 rg 98.00 482.39 22.00 10.00 re f
-BT /F2 6.8 Tf 1.000 1.000 1.000 rg 102.39 484.59 Td (ALT) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 124.00 484.89 Td (Tottenham over 6.5 corners) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 474.89 Td (Tottenham v Ipswich \(Premier League\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 484.89 Td (Team corners \(alt market\)) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 484.89 Td (5/6) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 474.89 Td (1.83) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 484.89 Td (57%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 484.89 Td (£30) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 474.89 Td (T2 21-50%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 468.39 m 559.28 468.39 l S
-0.184 0.435 0.929 rg 36.00 440.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 455.89 Td (14:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 445.89 Td (UK) Tj ET
-0.843 0.149 0.118 rg 98.00 453.39 22.00 10.00 re f
-BT /F2 6.8 Tf 1.000 1.000 1.000 rg 102.39 455.59 Td (ALT) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 124.00 455.89 Td (Lazio -1) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 445.89 Td (Lazio v Lecce \(Serie A\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 455.89 Td (Asian handicap -1 \(alt market\)) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 455.89 Td (11/20) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 445.89 Td (1.55) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 455.89 Td (56%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 551.93 455.89 Td (-) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 439.39 m 559.28 439.39 l S
-0.184 0.435 0.929 rg 36.00 411.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 426.89 Td (14:30) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 416.89 Td (UK) Tj ET
-0.843 0.149 0.118 rg 98.00 424.39 22.00 10.00 re f
-BT /F2 6.8 Tf 1.000 1.000 1.000 rg 102.39 426.59 Td (ALT) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 124.00 426.89 Td (Leverkusen -1.5) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 416.89 Td (Leverkusen v Paderborn \(Bundesliga\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 426.89 Td (Asian handicap -1.5 \(alt market\)) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 426.89 Td (4/5) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 416.89 Td (1.80) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 426.89 Td (55%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 426.89 Td (£20) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 416.89 Td (T3 51-75%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 410.39 m 559.28 410.39 l S
-0.184 0.435 0.929 rg 36.00 382.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 397.89 Td (15:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 387.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 397.89 Td (Bournemouth to win) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 387.89 Td (Bournemouth v Nott'm Forest \(Premier League\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 397.89 Td (Match result) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 397.89 Td (19/20) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 387.89 Td (1.95) Tj ET
-BT /F2 9 Tf 0.290 0.565 0.761 rg 498.00 397.89 Td (52%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 544.08 397.89 Td (£9) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 518.24 387.89 Td (T4 76-100%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 381.39 m 559.28 381.39 l S
-0.184 0.435 0.929 rg 36.00 355.89 8.00 14.00 re f
-BT /F4 10.5 Tf 0.063 0.125 0.165 rg 50.00 358.89 Td (FOOTBALL · CHAMPIONSHIP) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 540.16 358.89 Td (2 tips) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 341.89 Td (KICK-OFF \(UK\)) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 98.00 341.89 Td (SELECTION · EVENT) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 318.00 341.89 Td (MARKET) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 456.00 341.89 Td (ODDS) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 498.00 341.89 Td (CONF) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 531.64 341.89 Td (STAKE) Tj ET
-0.851 0.824 0.753 RG 0.6 w 36.00 337.89 m 559.28 337.89 l S
-0.184 0.435 0.929 rg 36.00 309.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 324.89 Td (15:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 314.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 324.89 Td (Sheffield United to win) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 314.89 Td (Sheffield United v Watford \(Championship\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 324.89 Td (Match result) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 324.89 Td (4/7) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 314.89 Td (1.57) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 324.89 Td (55%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 324.89 Td (£20) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 314.89 Td (T3 51-75%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 308.39 m 559.28 308.39 l S
-0.184 0.435 0.929 rg 36.00 280.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 295.89 Td (12:30) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 285.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 295.89 Td (Norwich to win) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 285.89 Td (Norwich v Cardiff \(Championship\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 295.89 Td (Match result) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 295.89 Td (8/11) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 285.89 Td (1.73) Tj ET
-BT /F2 9 Tf 0.290 0.565 0.761 rg 498.00 295.89 Td (53%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 551.93 295.89 Td (-) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 279.39 m 559.28 279.39 l S
-0.184 0.435 0.929 rg 36.00 253.89 8.00 14.00 re f
-BT /F4 10.5 Tf 0.063 0.125 0.165 rg 50.00 256.89 Td (FOOTBALL · LEAGUE ONE) Tj ET
-BT /F1 8 Tf 0.357 0.420 0.451 rg 540.16 256.89 Td (3 tips) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 239.89 Td (KICK-OFF \(UK\)) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 98.00 239.89 Td (SELECTION · EVENT) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 318.00 239.89 Td (MARKET) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 456.00 239.89 Td (ODDS) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 498.00 239.89 Td (CONF) Tj ET
-BT /F2 6.8 Tf 0.357 0.420 0.451 rg 531.64 239.89 Td (STAKE) Tj ET
-0.851 0.824 0.753 RG 0.6 w 36.00 235.89 m 559.28 235.89 l S
-0.184 0.435 0.929 rg 36.00 207.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 222.89 Td (15:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 212.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 222.89 Td (Plymouth to win) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 212.89 Td (Plymouth v Peterborough \(League One\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 222.89 Td (Match result) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 222.89 Td (4/5) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 212.89 Td (1.80) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 222.89 Td (56%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 222.89 Td (£20) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 212.89 Td (T3 51-75%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 206.39 m 559.28 206.39 l S
-0.184 0.435 0.929 rg 36.00 178.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 193.89 Td (15:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 183.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 193.89 Td (Bradford to win) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 183.89 Td (Bradford v Doncaster \(League One\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 193.89 Td (Match result) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 193.89 Td (7/10) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 183.89 Td (1.71) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 193.89 Td (56%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 193.89 Td (£20) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 183.89 Td (T3 51-75%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 177.39 m 559.28 177.39 l S
-0.184 0.435 0.929 rg 36.00 149.89 3.00 25.00 re f
-BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 164.89 Td (15:00) Tj ET
-BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 154.89 Td (UK) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 164.89 Td (Leyton Orient to win) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 154.89 Td (Leyton Orient v AFC Wimbledon \(League One\)) Tj ET
-BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 164.89 Td (Match result) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 164.89 Td (3/4) Tj ET
-BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 154.89 Td (1.77) Tj ET
-BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 164.89 Td (55%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 164.89 Td (£20) Tj ET
-BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 154.89 Td (T3 51-75%) Tj ET
-0.925 0.902 0.839 RG 0.6 w 36.00 148.39 m 559.28 148.39 l S
+BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 16:48 UK) Tj ET
+0.965 0.945 0.894 rg 36.00 706.89 523.28 83.00 re f
+0.761 0.094 0.478 rg 36.00 706.89 4.00 83.00 re f
+BT /F4 10 Tf 0.063 0.125 0.165 rg 48.00 775.89 Td (BEST 5-FOLD) Tj ET
+BT /F2 8 Tf 0.063 0.125 0.165 rg 340.56 775.89 Td (8.06 odds · £20 stake · returns £161.11 · 9.5% chance) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 762.89 Td (• Erling Haaland to score · Man City v Fulham \(Premier League\) · 4/7 · 12:30 UK) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 751.89 Td (• Minnesota Timberwolves to win · Grizzlies @ Timberwolves \(NBA\) · 1/2 · Sun 01:00 UK) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 740.89 Td (• PSG to win · Nice v PSG \(Ligue 1\) · 1/2 · 16:15 UK) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 729.89 Td (• Celtic -1.5 · Celtic v St Mirren \(Scottish Prem\) · 1/2 · 15:00 UK) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 718.89 Td (• Navajo Stirling to win · Prochazka v Stirling \(UFC Qatar main event\) · 5/9 · Sat evening UK) Tj ET
+0.843 0.149 0.118 rg 36.00 676.89 523.28 20.00 re f
+1.000 0.776 0.161 rg 36.00 676.89 5.00 20.00 re f
+BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 682.89 Td (ALL TIPS BY SPORT) Tj ET
+BT /F1 8 Tf 1.000 1.000 1.000 rg 366.51 683.39 Td (Sorted by confidence · stake = tiered single in Pot 1) Tj ET
+0.184 0.435 0.929 rg 36.00 654.89 8.00 14.00 re f
+BT /F4 10.5 Tf 0.063 0.125 0.165 rg 50.00 657.89 Td (FOOTBALL · TOP LEAGUES \(UK & EUROPE\)) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 535.71 657.89 Td (12 tips) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 640.89 Td (KICK-OFF \(UK\)) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 98.00 640.89 Td (SELECTION · EVENT) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 318.00 640.89 Td (MARKET) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 456.00 640.89 Td (ODDS) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 498.00 640.89 Td (CONF) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 531.64 640.89 Td (STAKE) Tj ET
+0.851 0.824 0.753 RG 0.6 w 36.00 636.89 m 559.28 636.89 l S
+0.184 0.435 0.929 rg 36.00 608.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 623.89 Td (12:30) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 613.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 623.89 Td (Erling Haaland to score) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 613.89 Td (Man City v Fulham \(Premier League\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 623.89 Td (Anytime goalscorer) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 623.89 Td (4/7) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 613.89 Td (1.53) Tj ET
+BT /F2 9 Tf 0.094 0.663 0.341 rg 498.00 623.89 Td (63%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 623.89 Td (£35) Tj ET
+0.843 0.149 0.118 rg 521.28 610.89 34.00 9.50 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 529.28 613.09 Td (LOST) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 607.39 m 559.28 607.39 l S
+0.184 0.435 0.929 rg 36.00 579.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 594.89 Td (16:15) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 584.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 594.89 Td (PSG to win) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 584.89 Td (Nice v PSG \(Ligue 1\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 594.89 Td (Match result) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 594.89 Td (1/2) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 584.89 Td (1.50) Tj ET
+BT /F2 9 Tf 0.094 0.663 0.341 rg 498.00 594.89 Td (63%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 594.89 Td (£35) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 520.50 584.89 Td (T1 top 20%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 578.39 m 559.28 578.39 l S
+0.184 0.435 0.929 rg 36.00 550.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 565.89 Td (15:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 555.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 565.89 Td (Celtic -1.5) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 555.89 Td (Celtic v St Mirren \(Scottish Prem\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 565.89 Td (Handicap -1.5 \(win by 2+\)) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 565.89 Td (1/2) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 555.89 Td (1.50) Tj ET
+BT /F2 9 Tf 0.094 0.663 0.341 rg 498.00 565.89 Td (62%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 565.89 Td (£26) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 555.89 Td (T2 21-50%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 549.39 m 559.28 549.39 l S
+0.184 0.435 0.929 rg 36.00 521.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 536.89 Td (17:30) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 526.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 536.89 Td (Arsenal to win) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 526.89 Td (Newcastle v Arsenal \(Premier League\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 536.89 Td (Match result) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 536.89 Td (11/20) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 526.89 Td (1.55) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 536.89 Td (61%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 536.89 Td (£26) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 526.89 Td (T2 21-50%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 520.39 m 559.28 520.39 l S
+0.184 0.435 0.929 rg 36.00 492.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 507.89 Td (20:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 497.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 507.89 Td (Rangers to win) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 497.89 Td (Motherwell v Rangers \(Scottish Prem\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 507.89 Td (Match result) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 507.89 Td (8/15) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 497.89 Td (1.53) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 507.89 Td (60%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 507.89 Td (£26) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 497.89 Td (T2 21-50%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 491.39 m 559.28 491.39 l S
+0.184 0.435 0.929 rg 36.00 463.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 478.89 Td (15:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 468.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 478.89 Td (Aston Villa to win) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 468.89 Td (Aston Villa v Sunderland \(Premier League\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 478.89 Td (Match result) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 478.89 Td (4/5) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 468.89 Td (1.80) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 478.89 Td (58%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 478.89 Td (£26) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 468.89 Td (T2 21-50%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 462.39 m 559.28 462.39 l S
+0.184 0.435 0.929 rg 36.00 434.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 449.89 Td (20:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 439.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 449.89 Td (Real Madrid -1.75) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 439.89 Td (Real Madrid v Celta Vigo \(La Liga\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 449.89 Td (Asian handicap -1.75) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 449.89 Td (8/13) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 439.89 Td (1.63) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 449.89 Td (57%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 449.89 Td (£17) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 439.89 Td (T3 51-75%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 433.39 m 559.28 433.39 l S
+0.184 0.435 0.929 rg 36.00 405.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 420.89 Td (12:30) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 410.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 420.89 Td (BTTS: Yes) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 410.89 Td (Man City v Fulham \(Premier League\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 420.89 Td (Both teams to score) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 420.89 Td (4/6) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 410.89 Td (1.68) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 420.89 Td (57%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 420.89 Td (£26) Tj ET
+0.055 0.478 0.243 rg 521.28 407.89 34.00 9.50 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 529.86 410.09 Td (WON) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 404.39 m 559.28 404.39 l S
+0.184 0.435 0.929 rg 36.00 376.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 391.89 Td (15:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 381.89 Td (UK) Tj ET
+0.843 0.149 0.118 rg 98.00 389.39 22.00 10.00 re f
+BT /F2 6.8 Tf 1.000 1.000 1.000 rg 102.39 391.59 Td (ALT) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 124.00 391.89 Td (Tottenham over 6.5 corners) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 381.89 Td (Tottenham v Ipswich \(Premier League\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 391.89 Td (Team corners \(alt market\)) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 391.89 Td (5/6) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 381.89 Td (1.83) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 391.89 Td (57%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 391.89 Td (£30) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 381.89 Td (T2 21-50%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 375.39 m 559.28 375.39 l S
+0.184 0.435 0.929 rg 36.00 347.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 362.89 Td (14:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 352.89 Td (UK) Tj ET
+0.843 0.149 0.118 rg 98.00 360.39 22.00 10.00 re f
+BT /F2 6.8 Tf 1.000 1.000 1.000 rg 102.39 362.59 Td (ALT) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 124.00 362.89 Td (Lazio -1) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 352.89 Td (Lazio v Lecce \(Serie A\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 362.89 Td (Asian handicap -1 \(alt market\)) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 362.89 Td (11/20) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 352.89 Td (1.55) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 362.89 Td (56%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 362.89 Td (£20) Tj ET
+0.055 0.478 0.243 rg 521.28 349.89 34.00 9.50 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 529.86 352.09 Td (WON) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 346.39 m 559.28 346.39 l S
+0.184 0.435 0.929 rg 36.00 318.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 333.89 Td (14:30) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 323.89 Td (UK) Tj ET
+0.843 0.149 0.118 rg 98.00 331.39 22.00 10.00 re f
+BT /F2 6.8 Tf 1.000 1.000 1.000 rg 102.39 333.59 Td (ALT) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 124.00 333.89 Td (Leverkusen -1.5) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 323.89 Td (Leverkusen v Paderborn \(Bundesliga\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 333.89 Td (Asian handicap -1.5 \(alt market\)) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 333.89 Td (4/5) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 323.89 Td (1.80) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 333.89 Td (55%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 333.89 Td (£20) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 323.89 Td (T3 51-75%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 317.39 m 559.28 317.39 l S
+0.184 0.435 0.929 rg 36.00 289.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 304.89 Td (15:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 294.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 304.89 Td (Bournemouth to win) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 294.89 Td (Bournemouth v Nott'm Forest \(Premier League\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 304.89 Td (Match result) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 304.89 Td (19/20) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 294.89 Td (1.95) Tj ET
+BT /F2 9 Tf 0.290 0.565 0.761 rg 498.00 304.89 Td (52%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 544.08 304.89 Td (£9) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 518.24 294.89 Td (T4 76-100%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 288.39 m 559.28 288.39 l S
+0.184 0.435 0.929 rg 36.00 262.89 8.00 14.00 re f
+BT /F4 10.5 Tf 0.063 0.125 0.165 rg 50.00 265.89 Td (FOOTBALL · CHAMPIONSHIP) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 540.16 265.89 Td (2 tips) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 248.89 Td (KICK-OFF \(UK\)) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 98.00 248.89 Td (SELECTION · EVENT) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 318.00 248.89 Td (MARKET) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 456.00 248.89 Td (ODDS) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 498.00 248.89 Td (CONF) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 531.64 248.89 Td (STAKE) Tj ET
+0.851 0.824 0.753 RG 0.6 w 36.00 244.89 m 559.28 244.89 l S
+0.184 0.435 0.929 rg 36.00 216.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 231.89 Td (15:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 221.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 231.89 Td (Sheffield United to win) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 221.89 Td (Sheffield United v Watford \(Championship\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 231.89 Td (Match result) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 231.89 Td (4/7) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 221.89 Td (1.57) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 231.89 Td (55%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 231.89 Td (£20) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 221.89 Td (T3 51-75%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 215.39 m 559.28 215.39 l S
+0.184 0.435 0.929 rg 36.00 187.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 202.89 Td (12:30) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 192.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 202.89 Td (Norwich to win) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 192.89 Td (Norwich v Cardiff \(Championship\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 202.89 Td (Match result) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 202.89 Td (8/11) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 192.89 Td (1.73) Tj ET
+BT /F2 9 Tf 0.290 0.565 0.761 rg 498.00 202.89 Td (53%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 202.89 Td (£10) Tj ET
+0.055 0.478 0.243 rg 521.28 189.89 34.00 9.50 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 529.86 192.09 Td (WON) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 186.39 m 559.28 186.39 l S
+0.184 0.435 0.929 rg 36.00 160.89 8.00 14.00 re f
+BT /F4 10.5 Tf 0.063 0.125 0.165 rg 50.00 163.89 Td (FOOTBALL · LEAGUE ONE) Tj ET
+BT /F1 8 Tf 0.357 0.420 0.451 rg 540.16 163.89 Td (3 tips) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 146.89 Td (KICK-OFF \(UK\)) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 98.00 146.89 Td (SELECTION · EVENT) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 318.00 146.89 Td (MARKET) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 456.00 146.89 Td (ODDS) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 498.00 146.89 Td (CONF) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 531.64 146.89 Td (STAKE) Tj ET
+0.851 0.824 0.753 RG 0.6 w 36.00 142.89 m 559.28 142.89 l S
+0.184 0.435 0.929 rg 36.00 114.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 129.89 Td (15:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 119.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 129.89 Td (Plymouth to win) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 119.89 Td (Plymouth v Peterborough \(League One\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 129.89 Td (Match result) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 129.89 Td (4/5) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 119.89 Td (1.80) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 129.89 Td (56%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 129.89 Td (£20) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 119.89 Td (T3 51-75%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 113.39 m 559.28 113.39 l S
+0.184 0.435 0.929 rg 36.00 85.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 100.89 Td (15:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 90.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 100.89 Td (Bradford to win) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 90.89 Td (Bradford v Doncaster \(League One\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 100.89 Td (Match result) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 100.89 Td (7/10) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 90.89 Td (1.71) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 100.89 Td (56%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 100.89 Td (£20) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 90.89 Td (T3 51-75%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 84.39 m 559.28 84.39 l S
+0.184 0.435 0.929 rg 36.00 56.89 3.00 25.00 re f
+BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 71.89 Td (15:00) Tj ET
+BT /F1 6.5 Tf 0.357 0.420 0.451 rg 42.00 61.89 Td (UK) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 98.00 71.89 Td (Leyton Orient to win) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 98.00 61.89 Td (Leyton Orient v AFC Wimbledon \(League One\)) Tj ET
+BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 71.89 Td (Match result) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 71.89 Td (3/4) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 61.89 Td (1.77) Tj ET
+BT /F2 9 Tf 0.690 0.478 0.000 rg 498.00 71.89 Td (55%) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 71.89 Td (£20) Tj ET
+BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 61.89 Td (T3 51-75%) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 55.39 m 559.28 55.39 l S
 0.851 0.824 0.753 RG 0.6 w 36.00 30.00 m 559.28 30.00 l S
 BT /F2 7.5 Tf 0.357 0.420 0.451 rg 36.00 18.00 Td (RED HOT TIPS · PAPER BETTING ONLY · NO REAL MONEY) Tj ET
 BT /F1 7.5 Tf 0.357 0.420 0.451 rg 478.41 18.00 Td (SAT 21 NOV 2026 · UK) Tj ET
@@ -424,14 +455,14 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 12 0 R >>
 endobj
 12 0 obj
-<< /Length 15547 >>
+<< /Length 16148 >>
 stream
 1.000 0.992 0.965 rg 0.00 0.00 595.28 841.89 re f
 0.024 0.078 0.047 rg 0.00 811.89 595.28 30.00 re f
 0.843 0.149 0.118 rg 0.00 808.89 595.28 3.00 re f
 BT /F4 13 Tf 1.000 1.000 1.000 rg 36.00 820.89 Td (RED HOT) Tj ET
 BT /F4 13 Tf 1.000 0.776 0.161 rg 101.84 820.89 Td (TIPS) Tj ET
-BT /F2 9 Tf 1.000 1.000 1.000 rg 456.41 821.89 Td (SAT 21 NOV 2026 · UK) Tj ET
+BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 16:48 UK) Tj ET
 0.184 0.435 0.929 rg 36.00 775.89 8.00 14.00 re f
 BT /F4 10.5 Tf 0.063 0.125 0.165 rg 50.00 778.89 Td (FOOTBALL · LEAGUE TWO) Tj ET
 BT /F1 8 Tf 0.357 0.420 0.451 rg 540.16 778.89 Td (3 tips) Tj ET
@@ -475,7 +506,9 @@ BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 686.89 Td (Match result) Tj ET
 BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 686.89 Td (17/20) Tj ET
 BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 676.89 Td (1.85) Tj ET
 BT /F2 9 Tf 0.290 0.565 0.761 rg 498.00 686.89 Td (51%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 551.93 686.89 Td (-) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 538.48 686.89 Td (£10) Tj ET
+0.055 0.478 0.243 rg 521.28 673.89 34.00 9.50 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 529.86 676.09 Td (WON) Tj ET
 0.925 0.902 0.839 RG 0.6 w 36.00 670.39 m 559.28 670.39 l S
 0.627 0.396 0.165 rg 36.00 644.89 8.00 14.00 re f
 BT /F4 10.5 Tf 0.063 0.125 0.165 rg 50.00 647.89 Td (HORSE RACING) Tj ET
@@ -496,7 +529,9 @@ BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 613.89 Td (Win) Tj ET
 BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 613.89 Td (10/11) Tj ET
 BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 603.89 Td (1.91) Tj ET
 BT /F2 9 Tf 0.290 0.565 0.761 rg 498.00 613.89 Td (52%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 551.93 613.89 Td (-) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 544.08 613.89 Td (£9) Tj ET
+0.055 0.478 0.243 rg 521.28 600.89 34.00 9.50 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 529.86 603.09 Td (WON) Tj ET
 0.925 0.902 0.839 RG 0.6 w 36.00 597.39 m 559.28 597.39 l S
 0.627 0.396 0.165 rg 36.00 569.89 3.00 25.00 re f
 BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 584.89 Td (15:35) Tj ET
@@ -507,7 +542,9 @@ BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 584.89 Td (Win) Tj ET
 BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 584.89 Td (9/2) Tj ET
 BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 574.89 Td (5.50) Tj ET
 BT /F2 9 Tf 0.290 0.565 0.761 rg 498.00 584.89 Td (24%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 551.93 584.89 Td (-) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 544.08 584.89 Td (£9) Tj ET
+0.843 0.149 0.118 rg 521.28 571.89 34.00 9.50 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 529.28 574.09 Td (LOST) Tj ET
 0.925 0.902 0.839 RG 0.6 w 36.00 568.39 m 559.28 568.39 l S
 0.843 0.149 0.239 rg 36.00 542.89 8.00 14.00 re f
 BT /F4 10.5 Tf 0.063 0.125 0.165 rg 50.00 545.89 Td (BOXING) Tj ET
@@ -642,7 +679,9 @@ BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 176.89 Td (Handicap -33) Tj ET
 BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 176.89 Td (10/11) Tj ET
 BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 166.89 Td (1.91) Tj ET
 BT /F2 9 Tf 0.290 0.565 0.761 rg 498.00 176.89 Td (52%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 551.93 176.89 Td (-) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 544.08 176.89 Td (£9) Tj ET
+0.055 0.478 0.243 rg 521.28 163.89 34.00 9.50 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 529.86 166.09 Td (WON) Tj ET
 0.925 0.902 0.839 RG 0.6 w 36.00 160.39 m 559.28 160.39 l S
 0.059 0.561 0.478 rg 36.00 132.89 3.00 25.00 re f
 BT /F2 9 Tf 0.063 0.125 0.165 rg 42.00 147.89 Td (14:10) Tj ET
@@ -653,7 +692,9 @@ BT /F1 7.8 Tf 0.063 0.125 0.165 rg 318.00 147.89 Td (Tries) Tj ET
 BT /F2 9.5 Tf 0.063 0.125 0.165 rg 456.00 147.89 Td (6/4) Tj ET
 BT /F1 7.5 Tf 0.357 0.420 0.451 rg 456.00 137.89 Td (2.50) Tj ET
 BT /F2 9 Tf 0.290 0.565 0.761 rg 498.00 147.89 Td (40%) Tj ET
-BT /F2 9.5 Tf 0.063 0.125 0.165 rg 551.93 147.89 Td (-) Tj ET
+BT /F2 9.5 Tf 0.063 0.125 0.165 rg 544.08 147.89 Td (£9) Tj ET
+0.055 0.478 0.243 rg 521.28 134.89 34.00 9.50 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 529.86 137.09 Td (WON) Tj ET
 0.925 0.902 0.839 RG 0.6 w 36.00 131.39 m 559.28 131.39 l S
 0.851 0.824 0.753 RG 0.6 w 36.00 30.00 m 559.28 30.00 l S
 BT /F2 7.5 Tf 0.357 0.420 0.451 rg 36.00 18.00 Td (RED HOT TIPS · PAPER BETTING ONLY · NO REAL MONEY) Tj ET
@@ -664,14 +705,14 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 14 0 R >>
 endobj
 14 0 obj
-<< /Length 7458 >>
+<< /Length 19682 >>
 stream
 1.000 0.992 0.965 rg 0.00 0.00 595.28 841.89 re f
 0.024 0.078 0.047 rg 0.00 811.89 595.28 30.00 re f
 0.843 0.149 0.118 rg 0.00 808.89 595.28 3.00 re f
 BT /F4 13 Tf 1.000 1.000 1.000 rg 36.00 820.89 Td (RED HOT) Tj ET
 BT /F4 13 Tf 1.000 0.776 0.161 rg 101.84 820.89 Td (TIPS) Tj ET
-BT /F2 9 Tf 1.000 1.000 1.000 rg 456.41 821.89 Td (SAT 21 NOV 2026 · UK) Tj ET
+BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 16:48 UK) Tj ET
 0.000 0.651 0.839 rg 36.00 775.89 8.00 14.00 re f
 BT /F4 10.5 Tf 0.063 0.125 0.165 rg 50.00 778.89 Td (DARTS) Tj ET
 BT /F1 8 Tf 0.357 0.420 0.451 rg 540.16 778.89 Td (3 tips) Tj ET
@@ -766,38 +807,434 @@ BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 545.89 Td (T3 51-75%) Tj ET
 0.925 0.902 0.839 RG 0.6 w 36.00 539.39 m 559.28 539.39 l S
 0.843 0.149 0.118 rg 36.00 507.89 523.28 20.00 re f
 1.000 0.776 0.161 rg 36.00 507.89 5.00 20.00 re f
-BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 513.89 Td (PAPER MONEY ONLY) Tj ET
-BT /F1 8.5 Tf 0.063 0.125 0.165 rg 40.00 493.89 Td (This is a paper-money tracker: no real bets are placed and no money changes hands. Prices were real bookmaker prices when read and) Tj ET
-BT /F1 8.5 Tf 0.063 0.125 0.165 rg 40.00 481.89 Td (will move; * marks an indicative price. ALT = alternative market \(handicap, corners, cards, HT/FT, win to nil\). All times are UK time) Tj ET
-BT /F1 8.5 Tf 0.063 0.125 0.165 rg 40.00 469.89 Td (\(Europe/London\).) Tj ET
+BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 513.89 Td (ALL POT 1 SLIPS) Tj ET
+BT /F1 8 Tf 1.000 1.000 1.000 rg 424.54 514.39 Td (44 slips · 31 open · as of 16:48 UK) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 491.89 Td (SLIP) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 76.00 491.89 Td (SELECTION / LEGS) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 386.00 491.89 Td (ODDS) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 432.00 491.89 Td (STAKE) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 472.00 491.89 Td (STATUS) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 525.25 491.89 Td (RETURN) Tj ET
+0.851 0.824 0.753 RG 0.6 w 36.00 487.89 m 559.28 487.89 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 474.89 Td (A1) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 474.89 Td (Single: Erling Haaland to score) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 474.89 Td (1.53) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 474.89 Td (£35) Tj ET
+0.843 0.149 0.118 rg 472.00 472.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.00 475.39 Td (LOST) Tj ET
+BT /F2 8.5 Tf 0.843 0.149 0.118 rg 545.26 474.89 Td (£0) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 470.39 m 559.28 470.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 457.89 Td (A2) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 457.89 Td (Single: Celtic -1.5) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 457.89 Td (1.50) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 457.89 Td (£26) Tj ET
+0.690 0.478 0.000 rg 472.00 455.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 458.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 457.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 453.39 m 559.28 453.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 440.89 Td (A3) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 440.89 Td (Single: Minnesota Timberwolves to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 440.89 Td (1.50) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 440.89 Td (£35) Tj ET
+0.690 0.478 0.000 rg 472.00 438.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 441.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 440.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 436.39 m 559.28 436.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 423.89 Td (A4) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 423.89 Td (Single: Navajo Stirling to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 423.89 Td (1.56) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 423.89 Td (£26) Tj ET
+0.690 0.478 0.000 rg 472.00 421.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 424.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 423.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 419.39 m 559.28 419.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 406.89 Td (A5) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 406.89 Td (Football Double) Tj ET
+BT /F1 7 Tf 0.357 0.420 0.451 rg 76.00 396.89 Td (Erling Haaland to score + Arsenal to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 406.89 Td (2.37) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 406.89 Td (£20) Tj ET
+0.843 0.149 0.118 rg 472.00 404.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.00 407.39 Td (LOST) Tj ET
+BT /F2 8.5 Tf 0.843 0.149 0.118 rg 545.26 406.89 Td (£0) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 393.39 m 559.28 393.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 380.89 Td (A6) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 380.89 Td (Platinum bets treble) Tj ET
+BT /F1 7 Tf 0.357 0.420 0.451 rg 76.00 370.89 Td (Celtic -1.5 + PSG to win + Minnesota Timberwolves to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 380.89 Td (3.38) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 380.89 Td (£20) Tj ET
+0.690 0.478 0.000 rg 472.00 378.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 381.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 380.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 367.39 m 559.28 367.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 354.89 Td (A7) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 354.89 Td (Best 3-fold) Tj ET
+BT /F1 7 Tf 0.357 0.420 0.451 rg 76.00 344.89 Td (Erling Haaland to score + Minnesota Timberwolves to win + PSG to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 354.89 Td (3.44) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 354.89 Td (£20) Tj ET
+0.843 0.149 0.118 rg 472.00 352.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.00 355.39 Td (LOST) Tj ET
+BT /F2 8.5 Tf 0.843 0.149 0.118 rg 545.26 354.89 Td (£0) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 341.39 m 559.28 341.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 328.89 Td (A8) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 328.89 Td (Best 4-fold) Tj ET
+BT /F1 7 Tf 0.357 0.420 0.451 rg 76.00 318.89 Td (Erling Haaland to score + Minnesota Timberwolves to win + PSG to win + Celtic -1.5) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 328.89 Td (5.16) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 328.89 Td (£20) Tj ET
+0.843 0.149 0.118 rg 472.00 326.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.00 329.39 Td (LOST) Tj ET
+BT /F2 8.5 Tf 0.843 0.149 0.118 rg 545.26 328.89 Td (£0) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 315.39 m 559.28 315.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 302.89 Td (A9) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 302.89 Td (Best 5-fold) Tj ET
+BT /F1 7 Tf 0.357 0.420 0.451 rg 76.00 292.89 Td (Erling Haaland to score + Minnesota Timberwolves to win + PSG to win + Celtic -1.5 + Navajo S…) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 302.89 Td (8.06) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 302.89 Td (£20) Tj ET
+0.843 0.149 0.118 rg 472.00 300.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.00 303.39 Td (LOST) Tj ET
+BT /F2 8.5 Tf 0.843 0.149 0.118 rg 545.26 302.89 Td (£0) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 289.39 m 559.28 289.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 276.89 Td (A10) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 276.89 Td (Best double 1) Tj ET
+BT /F1 7 Tf 0.357 0.420 0.451 rg 76.00 266.89 Td (Arsenal to win + Rangers to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 276.89 Td (2.37) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 276.89 Td (£20) Tj ET
+0.690 0.478 0.000 rg 472.00 274.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 277.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 276.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 263.39 m 559.28 263.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 250.89 Td (A11) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 250.89 Td (Best double 2) Tj ET
+BT /F1 7 Tf 0.357 0.420 0.451 rg 76.00 240.89 Td (Aston Villa to win + Real Madrid -1.75) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 250.89 Td (2.93) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 250.89 Td (£20) Tj ET
+0.690 0.478 0.000 rg 472.00 248.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 251.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 250.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 237.39 m 559.28 237.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 224.89 Td (A12) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 224.89 Td (Single: New York Knicks to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 224.89 Td (1.47) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 224.89 Td (£35) Tj ET
+0.690 0.478 0.000 rg 472.00 222.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 225.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 224.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 220.39 m 559.28 220.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 207.89 Td (A13) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 207.89 Td (Single: PSG to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 207.89 Td (1.50) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 207.89 Td (£35) Tj ET
+0.690 0.478 0.000 rg 472.00 205.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 208.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 207.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 203.39 m 559.28 203.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 190.89 Td (A14) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 190.89 Td (Single: Texas Tech to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 190.89 Td (1.52) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 190.89 Td (£35) Tj ET
+0.690 0.478 0.000 rg 472.00 188.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 191.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 190.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 186.39 m 559.28 186.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 173.89 Td (A15) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 173.89 Td (Single: Arsenal to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 173.89 Td (1.55) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 173.89 Td (£26) Tj ET
+0.690 0.478 0.000 rg 472.00 171.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 174.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 173.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 169.39 m 559.28 169.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 156.89 Td (A16) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 156.89 Td (Single: Rangers to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 156.89 Td (1.53) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 156.89 Td (£26) Tj ET
+0.690 0.478 0.000 rg 472.00 154.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 157.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 156.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 152.39 m 559.28 152.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 139.89 Td (A17) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 139.89 Td (Single: Dan Hooker to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 139.89 Td (1.54) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 139.89 Td (£26) Tj ET
+0.690 0.478 0.000 rg 472.00 137.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 140.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 139.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 135.39 m 559.28 135.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 122.89 Td (A18) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 122.89 Td (Single: Aston Villa to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 122.89 Td (1.80) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 122.89 Td (£26) Tj ET
+0.690 0.478 0.000 rg 472.00 120.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 123.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 122.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 118.39 m 559.28 118.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 105.89 Td (A19) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 105.89 Td (Single: 49ers to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 105.89 Td (1.57) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 105.89 Td (£26) Tj ET
+0.690 0.478 0.000 rg 472.00 103.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 106.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 105.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 101.39 m 559.28 101.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 88.89 Td (A20) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 88.89 Td (Single: BTTS: Yes) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 88.89 Td (1.68) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 88.89 Td (£26) Tj ET
+0.055 0.478 0.243 rg 472.00 86.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.58 89.39 Td (WON) Tj ET
+BT /F2 8.5 Tf 0.055 0.478 0.243 rg 527.73 88.89 Td (£43.68) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 84.39 m 559.28 84.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 71.89 Td (A21) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 71.89 Td (Single: Real Madrid -1.75) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 71.89 Td (1.63) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 71.89 Td (£17) Tj ET
+0.690 0.478 0.000 rg 472.00 69.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 72.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 71.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 67.39 m 559.28 67.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 54.89 Td (A22) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 54.89 Td (Single: Van Veen under 8.5 180s) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 54.89 Td (1.57) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 54.89 Td (£17) Tj ET
+0.690 0.478 0.000 rg 472.00 52.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 55.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 54.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 50.39 m 559.28 50.39 l S
 0.851 0.824 0.753 RG 0.6 w 36.00 30.00 m 559.28 30.00 l S
 BT /F2 7.5 Tf 0.357 0.420 0.451 rg 36.00 18.00 Td (RED HOT TIPS · PAPER BETTING ONLY · NO REAL MONEY) Tj ET
 BT /F1 7.5 Tf 0.357 0.420 0.451 rg 478.41 18.00 Td (SAT 21 NOV 2026 · UK) Tj ET
 endstream
 endobj
 15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 13216 >>
+stream
+1.000 0.992 0.965 rg 0.00 0.00 595.28 841.89 re f
+0.024 0.078 0.047 rg 0.00 811.89 595.28 30.00 re f
+0.843 0.149 0.118 rg 0.00 808.89 595.28 3.00 re f
+BT /F4 13 Tf 1.000 1.000 1.000 rg 36.00 820.89 Td (RED HOT) Tj ET
+BT /F4 13 Tf 1.000 0.776 0.161 rg 101.84 820.89 Td (TIPS) Tj ET
+BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 16:48 UK) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 781.89 Td (SLIP) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 76.00 781.89 Td (SELECTION / LEGS) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 386.00 781.89 Td (ODDS) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 432.00 781.89 Td (STAKE) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 472.00 781.89 Td (STATUS) Tj ET
+BT /F2 6.8 Tf 0.357 0.420 0.451 rg 525.25 781.89 Td (RETURN) Tj ET
+0.851 0.824 0.753 RG 0.6 w 36.00 777.89 m 559.28 777.89 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 764.89 Td (A23) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 764.89 Td (Single: South Africa -10) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 764.89 Td (1.91) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 764.89 Td (£17) Tj ET
+0.690 0.478 0.000 rg 472.00 762.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 765.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 764.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 760.39 m 559.28 760.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 747.89 Td (A24) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 747.89 Td (Single: Tom Sykes +3.5 legs) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 747.89 Td (1.80) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 747.89 Td (£17) Tj ET
+0.690 0.478 0.000 rg 472.00 745.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 748.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 747.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 743.39 m 559.28 743.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 730.89 Td (A25) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 730.89 Td (Single: Over 14.5 180s) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 730.89 Td (1.91) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 730.89 Td (£17) Tj ET
+0.690 0.478 0.000 rg 472.00 728.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 731.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 730.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 726.39 m 559.28 726.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 713.89 Td (A26) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 713.89 Td (Single: Army -5.5) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 713.89 Td (1.85) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 713.89 Td (£17) Tj ET
+0.690 0.478 0.000 rg 472.00 711.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 714.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 713.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 709.39 m 559.28 709.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 696.89 Td (A27) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 696.89 Td (Single: Charlton Malajika to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 696.89 Td (1.80) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 696.89 Td (£9) Tj ET
+0.690 0.478 0.000 rg 472.00 694.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 697.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 696.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 692.39 m 559.28 692.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 679.89 Td (A28) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 679.89 Td (Single: Bournemouth to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 679.89 Td (1.95) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 679.89 Td (£9) Tj ET
+0.690 0.478 0.000 rg 472.00 677.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 680.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 679.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 675.39 m 559.28 675.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 662.89 Td (A29) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 662.89 Td (Single: Grey Dawning) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 662.89 Td (1.91) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 662.89 Td (£9) Tj ET
+0.055 0.478 0.243 rg 472.00 660.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.58 663.39 Td (WON) Tj ET
+BT /F2 8.5 Tf 0.055 0.478 0.243 rg 527.73 662.89 Td (£17.19) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 658.39 m 559.28 658.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 645.89 Td (A30) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 645.89 Td (Single: Scotland -33) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 645.89 Td (1.91) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 645.89 Td (£9) Tj ET
+0.055 0.478 0.243 rg 472.00 643.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.58 646.39 Td (WON) Tj ET
+BT /F2 8.5 Tf 0.055 0.478 0.243 rg 527.73 645.89 Td (£17.19) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 641.39 m 559.28 641.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 628.89 Td (A31) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 628.89 Td (Single: Aliskerov by decision) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 628.89 Td (2.65) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 628.89 Td (£9) Tj ET
+0.690 0.478 0.000 rg 472.00 626.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 629.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 628.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 624.39 m 559.28 624.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 611.89 Td (A32) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 611.89 Td (Single: Darcy Graham 2+ tries) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 611.89 Td (2.50) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 611.89 Td (£9) Tj ET
+0.055 0.478 0.243 rg 472.00 609.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.58 612.39 Td (WON) Tj ET
+BT /F2 8.5 Tf 0.055 0.478 0.243 rg 527.73 611.89 Td (£22.50) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 607.39 m 559.28 607.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 594.89 Td (A33) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 594.89 Td (Single: Dexperts Opinion) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 594.89 Td (5.50) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 594.89 Td (£9) Tj ET
+0.843 0.149 0.118 rg 472.00 592.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.00 595.39 Td (LOST) Tj ET
+BT /F2 8.5 Tf 0.843 0.149 0.118 rg 545.26 594.89 Td (£0) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 590.39 m 559.28 590.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 577.89 Td (A34) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 577.89 Td (Single: Tottenham over 6.5 corners) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 577.89 Td (1.83) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 577.89 Td (£30) Tj ET
+0.690 0.478 0.000 rg 472.00 575.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 578.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 577.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 573.39 m 559.28 573.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 560.89 Td (A35) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 560.89 Td (Single: Lazio -1) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 560.89 Td (1.55) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 560.89 Td (£20) Tj ET
+0.055 0.478 0.243 rg 472.00 558.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.58 561.39 Td (WON) Tj ET
+BT /F2 8.5 Tf 0.055 0.478 0.243 rg 540.25 560.89 Td (£31) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 556.39 m 559.28 556.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 543.89 Td (A36) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 543.89 Td (Single: Leverkusen -1.5) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 543.89 Td (1.80) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 543.89 Td (£20) Tj ET
+0.690 0.478 0.000 rg 472.00 541.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 544.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 543.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 539.39 m 559.28 539.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 526.89 Td (A37) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 526.89 Td (Single: Grimsby to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 526.89 Td (1.60) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 526.89 Td (£30) Tj ET
+0.690 0.478 0.000 rg 472.00 524.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 527.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 526.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 522.39 m 559.28 522.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 509.89 Td (A38) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 509.89 Td (Single: Plymouth to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 509.89 Td (1.80) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 509.89 Td (£20) Tj ET
+0.690 0.478 0.000 rg 472.00 507.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 510.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 509.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 505.39 m 559.28 505.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 492.89 Td (A39) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 492.89 Td (Single: Bradford to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 492.89 Td (1.71) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 492.89 Td (£20) Tj ET
+0.690 0.478 0.000 rg 472.00 490.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 493.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 492.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 488.39 m 559.28 488.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 475.89 Td (A40) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 475.89 Td (Single: Chesterfield to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 475.89 Td (1.65) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 475.89 Td (£20) Tj ET
+0.690 0.478 0.000 rg 472.00 473.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 476.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 475.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 471.39 m 559.28 471.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 458.89 Td (A41) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 458.89 Td (Single: Leyton Orient to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 458.89 Td (1.77) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 458.89 Td (£20) Tj ET
+0.690 0.478 0.000 rg 472.00 456.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 459.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 458.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 454.39 m 559.28 454.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 441.89 Td (A42) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 441.89 Td (Single: Sheffield United to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 441.89 Td (1.57) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 441.89 Td (£20) Tj ET
+0.690 0.478 0.000 rg 472.00 439.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 476.30 442.39 Td (PENDING) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 441.89 Td (-) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 437.39 m 559.28 437.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 424.89 Td (A43) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 424.89 Td (Single: Norwich to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 424.89 Td (1.73) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 424.89 Td (£10) Tj ET
+0.055 0.478 0.243 rg 472.00 422.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.58 425.39 Td (WON) Tj ET
+BT /F2 8.5 Tf 0.055 0.478 0.243 rg 527.73 424.89 Td (£17.30) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 420.39 m 559.28 420.39 l S
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 40.00 407.89 Td (A44) Tj ET
+BT /F2 8.5 Tf 0.063 0.125 0.165 rg 76.00 407.89 Td (Single: Newport County to win) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 386.00 407.89 Td (1.85) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 432.00 407.89 Td (£10) Tj ET
+0.055 0.478 0.243 rg 472.00 405.89 40.00 10.00 re f
+BT /F2 6.5 Tf 1.000 1.000 1.000 rg 483.58 408.39 Td (WON) Tj ET
+BT /F2 8.5 Tf 0.055 0.478 0.243 rg 527.73 407.89 Td (£18.50) Tj ET
+0.925 0.902 0.839 RG 0.6 w 36.00 403.39 m 559.28 403.39 l S
+0.843 0.149 0.118 rg 36.00 373.89 523.28 20.00 re f
+1.000 0.776 0.161 rg 36.00 373.89 5.00 20.00 re f
+BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 379.89 Td (PAPER MONEY ONLY) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 40.00 359.89 Td (This is a paper-money tracker: no real bets are placed and no money changes hands. Prices were real bookmaker prices when read and) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 40.00 347.89 Td (will move; * marks an indicative price. ALT = alternative market \(handicap, corners, cards, HT/FT, win to nil\). ADDED 1PM / ADDED 6PM) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 40.00 335.89 Td (= tip added by a top-up pass after the 10am UK set. All times are UK time \(Europe/London\).) Tj ET
+0.851 0.824 0.753 RG 0.6 w 36.00 30.00 m 559.28 30.00 l S
+BT /F2 7.5 Tf 0.357 0.420 0.451 rg 36.00 18.00 Td (RED HOT TIPS · PAPER BETTING ONLY · NO REAL MONEY) Tj ET
+BT /F1 7.5 Tf 0.357 0.420 0.451 rg 478.41 18.00 Td (SAT 21 NOV 2026 · UK) Tj ET
+endstream
+endobj
+17 0 obj
 << /Title (Red Hot Tips · SAT 21 NOV 2026) /Producer (Red Hot Tips) >>
 endobj
 xref
-0 16
+0 18
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
-0000000141 00000 n 
-0000000238 00000 n 
-0000000340 00000 n 
-0000000445 00000 n 
-0000000554 00000 n 
-0000000716 00000 n 
-0000011203 00000 n 
-0000011366 00000 n 
-0000028213 00000 n 
-0000028377 00000 n 
-0000043977 00000 n 
-0000044141 00000 n 
-0000051651 00000 n 
+0000000148 00000 n 
+0000000245 00000 n 
+0000000347 00000 n 
+0000000452 00000 n 
+0000000561 00000 n 
+0000000723 00000 n 
+0000011760 00000 n 
+0000011923 00000 n 
+0000030198 00000 n 
+0000030362 00000 n 
+0000046563 00000 n 
+0000046727 00000 n 
+0000066462 00000 n 
+0000066626 00000 n 
+0000079895 00000 n 
 trailer
-<< /Size 16 /Root 1 0 R /Info 15 0 R >>
+<< /Size 18 /Root 1 0 R /Info 17 0 R >>
 startxref
-51738
+79982
 %%EOF
