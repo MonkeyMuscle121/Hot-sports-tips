@@ -34,7 +34,7 @@ BT /F4 38 Tf 1.000 0.776 0.161 rg 228.46 765.89 Td (TIPS) Tj ET
 BT /F1 9.5 Tf 1.000 1.000 1.000 rg 36.00 741.89 Td (Number one rule: DO NOT LOSE · every tip 1/2 \(1.50\) or bigger) Tj ET
 1.000 1.000 1.000 rg 461.28 795.89 98.00 20.00 re f
 BT /F4 10 Tf 0.024 0.078 0.047 rg 471.40 801.89 Td (PAPER MONEY) Tj ET
-BT /F2 8.5 Tf 1.000 1.000 1.000 rg 467.12 741.89 Td (Last updated 17:12 UK) Tj ET
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 467.12 741.89 Td (Last updated 17:16 UK) Tj ET
 0.843 0.149 0.118 rg 36.00 676.89 523.28 20.00 re f
 1.000 0.776 0.161 rg 36.00 676.89 5.00 20.00 re f
 BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 682.89 Td (POT 1 · AUTO BETS) Tj ET
@@ -79,7 +79,7 @@ BT /F1 6.5 Tf 0.812 0.847 0.827 rg 310.64 556.89 Td (on settled slips) Tj ET
 BT /F2 7.5 Tf 1.000 0.776 0.161 rg 443.46 588.89 Td (RETURNS) Tj ET
 BT /F2 15 Tf 1.000 1.000 1.000 rg 443.46 568.89 Td (£414.61) Tj ET
 BT /F1 6.5 Tf 0.812 0.847 0.827 rg 443.46 556.89 Td (from settled slips) Tj ET
-BT /F2 7.5 Tf 0.357 0.420 0.451 rg 36.00 538.89 Td (Results, P/L and balance as of 17:12 UK \(confirmed final scores only\).) Tj ET
+BT /F2 7.5 Tf 0.357 0.420 0.451 rg 36.00 538.89 Td (Results, P/L and balance as of 17:16 UK \(confirmed final scores only\).) Tj ET
 BT /F2 8 Tf 0.843 0.149 0.118 rg 36.00 524.89 Td (Live \(real-money\) pots: LOCKED. They only unlock when you say so, never automatically.) Tj ET
 0.843 0.149 0.118 rg 36.00 490.89 523.28 20.00 re f
 1.000 0.776 0.161 rg 36.00 490.89 5.00 20.00 re f
@@ -182,14 +182,14 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 10 0 R >>
 endobj
 10 0 obj
-<< /Length 16740 >>
+<< /Length 16750 >>
 stream
 1.000 0.992 0.965 rg 0.00 0.00 595.28 841.89 re f
 0.024 0.078 0.047 rg 0.00 811.89 595.28 30.00 re f
 0.843 0.149 0.118 rg 0.00 808.89 595.28 3.00 re f
 BT /F4 13 Tf 1.000 1.000 1.000 rg 36.00 820.89 Td (RED HOT) Tj ET
 BT /F4 13 Tf 1.000 0.776 0.161 rg 101.84 820.89 Td (TIPS) Tj ET
-BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 17:12 UK) Tj ET
+BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 17:16 UK) Tj ET
 0.965 0.945 0.894 rg 36.00 706.89 523.28 83.00 re f
 0.761 0.094 0.478 rg 36.00 706.89 4.00 83.00 re f
 BT /F4 10 Tf 0.063 0.125 0.165 rg 48.00 775.89 Td (BEST 5-FOLD) Tj ET
@@ -202,7 +202,7 @@ BT /F1 8 Tf 0.357 0.420 0.451 rg 52.00 718.89 Td (• Navajo Stirling to win · Pro
 0.843 0.149 0.118 rg 36.00 676.89 523.28 20.00 re f
 1.000 0.776 0.161 rg 36.00 676.89 5.00 20.00 re f
 BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 682.89 Td (EXTRA TIPS ADDED TODAY) Tj ET
-BT /F1 8 Tf 1.000 1.000 1.000 rg 416.55 683.39 Td (3 tips · top-up passes 1pm & 6pm UK) Tj ET
+BT /F1 8 Tf 1.000 1.000 1.000 rg 384.08 683.39 Td (3 tips · added by top-up passes after 10am UK) Tj ET
 BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 660.89 Td (KICK-OFF \(UK\)) Tj ET
 BT /F2 6.8 Tf 0.357 0.420 0.451 rg 98.00 660.89 Td (SELECTION · EVENT) Tj ET
 BT /F2 6.8 Tf 0.357 0.420 0.451 rg 318.00 660.89 Td (MARKET) Tj ET
@@ -442,7 +442,7 @@ stream
 0.843 0.149 0.118 rg 0.00 808.89 595.28 3.00 re f
 BT /F4 13 Tf 1.000 1.000 1.000 rg 36.00 820.89 Td (RED HOT) Tj ET
 BT /F4 13 Tf 1.000 0.776 0.161 rg 101.84 820.89 Td (TIPS) Tj ET
-BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 17:12 UK) Tj ET
+BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 17:16 UK) Tj ET
 0.184 0.435 0.929 rg 36.00 775.89 8.00 14.00 re f
 BT /F4 10.5 Tf 0.063 0.125 0.165 rg 50.00 778.89 Td (FOOTBALL · CHAMPIONSHIP) Tj ET
 BT /F1 8 Tf 0.357 0.420 0.451 rg 540.16 778.89 Td (2 tips) Tj ET
@@ -703,7 +703,7 @@ stream
 0.843 0.149 0.118 rg 0.00 808.89 595.28 3.00 re f
 BT /F4 13 Tf 1.000 1.000 1.000 rg 36.00 820.89 Td (RED HOT) Tj ET
 BT /F4 13 Tf 1.000 0.776 0.161 rg 101.84 820.89 Td (TIPS) Tj ET
-BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 17:12 UK) Tj ET
+BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 17:16 UK) Tj ET
 0.843 0.149 0.239 rg 36.00 775.89 8.00 14.00 re f
 BT /F4 10.5 Tf 0.063 0.125 0.165 rg 50.00 778.89 Td (BOXING) Tj ET
 BT /F1 8 Tf 0.357 0.420 0.451 rg 544.16 778.89 Td (1 tip) Tj ET
@@ -949,7 +949,7 @@ BT /F1 6.8 Tf 0.357 0.420 0.451 rg 522.02 108.89 Td (T3 51-75%) Tj ET
 0.843 0.149 0.118 rg 36.00 70.89 523.28 20.00 re f
 1.000 0.776 0.161 rg 36.00 70.89 5.00 20.00 re f
 BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 76.89 Td (ALL POT 1 SLIPS) Tj ET
-BT /F1 8 Tf 1.000 1.000 1.000 rg 424.54 77.39 Td (48 slips · 23 open · as of 17:12 UK) Tj ET
+BT /F1 8 Tf 1.000 1.000 1.000 rg 424.54 77.39 Td (48 slips · 23 open · as of 17:16 UK) Tj ET
 BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 54.89 Td (SLIP) Tj ET
 BT /F2 6.8 Tf 0.357 0.420 0.451 rg 76.00 54.89 Td (SELECTION / LEGS) Tj ET
 BT /F2 6.8 Tf 0.357 0.420 0.451 rg 386.00 54.89 Td (ODDS) Tj ET
@@ -973,7 +973,7 @@ stream
 0.843 0.149 0.118 rg 0.00 808.89 595.28 3.00 re f
 BT /F4 13 Tf 1.000 1.000 1.000 rg 36.00 820.89 Td (RED HOT) Tj ET
 BT /F4 13 Tf 1.000 0.776 0.161 rg 101.84 820.89 Td (TIPS) Tj ET
-BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 17:12 UK) Tj ET
+BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 17:16 UK) Tj ET
 BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 781.89 Td (SLIP) Tj ET
 BT /F2 6.8 Tf 0.357 0.420 0.451 rg 76.00 781.89 Td (SELECTION / LEGS) Tj ET
 BT /F2 6.8 Tf 0.357 0.420 0.451 rg 386.00 781.89 Td (ODDS) Tj ET
@@ -1309,14 +1309,14 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 18 0 R >>
 endobj
 18 0 obj
-<< /Length 7120 >>
+<< /Length 7142 >>
 stream
 1.000 0.992 0.965 rg 0.00 0.00 595.28 841.89 re f
 0.024 0.078 0.047 rg 0.00 811.89 595.28 30.00 re f
 0.843 0.149 0.118 rg 0.00 808.89 595.28 3.00 re f
 BT /F4 13 Tf 1.000 1.000 1.000 rg 36.00 820.89 Td (RED HOT) Tj ET
 BT /F4 13 Tf 1.000 0.776 0.161 rg 101.84 820.89 Td (TIPS) Tj ET
-BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 17:12 UK) Tj ET
+BT /F2 9 Tf 1.000 1.000 1.000 rg 372.08 821.89 Td (SAT 21 NOV 2026 · Last updated 17:16 UK) Tj ET
 BT /F2 6.8 Tf 0.357 0.420 0.451 rg 40.00 781.89 Td (SLIP) Tj ET
 BT /F2 6.8 Tf 0.357 0.420 0.451 rg 76.00 781.89 Td (SELECTION / LEGS) Tj ET
 BT /F2 6.8 Tf 0.357 0.420 0.451 rg 386.00 781.89 Td (ODDS) Tj ET
@@ -1409,8 +1409,8 @@ BT /F2 8.5 Tf 0.063 0.125 0.165 rg 552.28 628.89 Td (-) Tj ET
 1.000 0.776 0.161 rg 36.00 585.89 5.00 20.00 re f
 BT /F4 11.5 Tf 1.000 1.000 1.000 rg 48.00 591.89 Td (PAPER MONEY ONLY) Tj ET
 BT /F1 8.5 Tf 0.063 0.125 0.165 rg 40.00 571.89 Td (This is a paper-money tracker: no real bets are placed and no money changes hands. Prices were real bookmaker prices when read and) Tj ET
-BT /F1 8.5 Tf 0.063 0.125 0.165 rg 40.00 559.89 Td (will move; * marks an indicative price. ALT = alternative market \(handicap, corners, cards, HT/FT, win to nil\). ADDED 1PM / ADDED 6PM) Tj ET
-BT /F1 8.5 Tf 0.063 0.125 0.165 rg 40.00 547.89 Td (= tip added by a top-up pass after the 10am UK set. All times are UK time \(Europe/London\).) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 40.00 559.89 Td (will move; * marks an indicative price. ALT = alternative market \(handicap, corners, cards, HT/FT, win to nil\). ADDED 7:30PM UK \(etc.\) =) Tj ET
+BT /F1 8.5 Tf 0.063 0.125 0.165 rg 40.00 547.89 Td (tip added by a top-up pass after the 10am UK set, at the time shown. All times are UK time \(Europe/London\).) Tj ET
 0.851 0.824 0.753 RG 0.6 w 36.00 30.00 m 559.28 30.00 l S
 BT /F2 7.5 Tf 0.357 0.420 0.451 rg 36.00 18.00 Td (RED HOT TIPS · PAPER BETTING ONLY · NO REAL MONEY) Tj ET
 BT /F1 7.5 Tf 0.357 0.420 0.451 rg 478.41 18.00 Td (SAT 21 NOV 2026 · UK) Tj ET
@@ -1432,17 +1432,17 @@ xref
 0000000730 00000 n 
 0000011814 00000 n 
 0000011977 00000 n 
-0000028770 00000 n 
-0000028934 00000 n 
-0000045766 00000 n 
-0000045930 00000 n 
-0000063597 00000 n 
-0000063761 00000 n 
-0000085803 00000 n 
-0000085967 00000 n 
-0000093139 00000 n 
+0000028780 00000 n 
+0000028944 00000 n 
+0000045776 00000 n 
+0000045940 00000 n 
+0000063607 00000 n 
+0000063771 00000 n 
+0000085813 00000 n 
+0000085977 00000 n 
+0000093171 00000 n 
 trailer
 << /Size 20 /Root 1 0 R /Info 19 0 R >>
 startxref
-93226
+93258
 %%EOF
