@@ -310,6 +310,10 @@ button.dbox.off{cursor:pointer;font:inherit}
 /* tile order 22 Nov 00:49 UK: fixed 2-col grid (1|2, 3|4, 5|6, PDF full width) */
 .nav{grid-template-columns:repeat(2,minmax(0,1fr))}
 .nav .lab.long{font-size:17px;line-height:19px}
+
+/* caption under big Total P&L (22 Nov 16:21 UK, keep) */
+.pnl-box{row-gap:4px}
+.pnl-since{flex-basis:100%;text-align:center;font-family:var(--mono);font-weight:700;font-size:12.5px;letter-spacing:.02em;color:#33434B}
 </style>
 </head>
 <body>
@@ -330,6 +334,7 @@ button.dbox.off{cursor:pointer;font:inherit}
         <div class="board-note"><b>ALL boxes are clickable for more info on each topic</b></div>
         <a class="pnl-box rht-tile" data-go="results" href="#results">
           <span class="pnl-val" style="color:#0E7A3E">+£66.66</span>
+          <span class="pnl-since">since Sat 21st November</span>
           <span class="pnl-bal">BAL £1,430.84 <span class="res-chip">RESULTS ›</span></span>
         </a>
         <div class="stats">
