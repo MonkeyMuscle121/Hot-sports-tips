@@ -740,9 +740,12 @@ renderSportCounts(); setInterval(renderSportCounts, 60000);
 (function () {
   var KEY = "rht_welcome_v3", m = document.getElementById("rht-welcome");
   if (!m) return;
+  // WELCOME_EVERY_VISIT = true (user 24 Nov 22:48 UK): show on every load/refresh; closing only hides it for this page view.
+  // Set to false to go back to once per browser (remembered in localStorage KEY).
+  var WELCOME_EVERY_VISIT = true;
   var seen = false;
   try { seen = localStorage.getItem(KEY) === "1"; } catch (e) {}
-  if (seen && !/[?&]welcome=1/.test(location.search)) return;
+  if (!WELCOME_EVERY_VISIT && seen && !/[?&]welcome=1/.test(location.search)) return;
   var last = null;
   function close() {
     m.hidden = true; document.documentElement.classList.remove("wl-open");
