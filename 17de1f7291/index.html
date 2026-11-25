@@ -766,9 +766,9 @@ renderSportCounts(); setInterval(renderSportCounts, 60000);
 (function () {
   var KEY = "rht_welcome_v3", m = document.getElementById("rht-welcome");
   if (!m) return;
-  // WELCOME_EVERY_VISIT = true (user 24 Nov 22:48 UK): show on every load/refresh; closing only hides it for this page view.
-  // Set to false to go back to once per browser (remembered in localStorage KEY).
-  var WELCOME_EVERY_VISIT = true;
+  // WELCOME_EVERY_VISIT = false (reverted 25 Nov 2026 UK): once per browser again (remembered in localStorage KEY).
+  // Set to true to show on every load/refresh (closing only hides it for this page view).
+  var WELCOME_EVERY_VISIT = false;
   var seen = false;
   try { seen = localStorage.getItem(KEY) === "1"; } catch (e) {}
   if (!WELCOME_EVERY_VISIT && seen && !/[?&]welcome=1/.test(location.search)) return;
