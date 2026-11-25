@@ -384,6 +384,14 @@ html.wl-open,html.wl-open body{overflow:hidden}
 .wl-foot{flex:0 0 auto;padding:10px 18px 14px;border-top:1px solid #D9D2C0;background:#FFFDF6}
 @media (max-width:420px){.wl-body{font-size:15px;line-height:21px;padding:12px 14px 4px}.wl-body p{margin:0 0 10px}.wl-title{font-size:26px}.wl-head{padding:14px 52px 12px 14px}.wl-foot{padding:10px 14px 12px}}
 @media (max-width:370px){.wl-body{font-size:14px;line-height:20px}.wl-title{font-size:23px}}
+
+/* online-now counter (25 Nov 2026 02:22 UK; keep daily). Hidden until a live count arrives. */
+.online-pill{display:inline-flex;align-items:center;gap:7px;margin-top:8px;background:#0B0F14;color:#fff;border:2px solid #FFC629;border-radius:999px;padding:4px 12px 4px 10px;font-family:var(--head);font-style:italic;font-weight:800;letter-spacing:.08em;font-size:13px;text-transform:uppercase;box-shadow:0 2px 0 rgba(0,0,0,.35)}
+.online-pill[hidden]{display:none}
+.online-led{width:8px;height:8px;border-radius:50%;background:#18A957;box-shadow:0 0 0 3px rgba(24,169,87,.35);flex:none;animation:rht-blink 1.4s infinite}
+.online-n{font-family:var(--mono);font-style:normal;font-weight:800;color:#FFC629;font-variant-numeric:tabular-nums}
+.online-l{color:#fff}
+@media (prefers-reduced-motion:reduce){.online-led{animation:none}}
 </style>
 </head>
 <body>
@@ -395,6 +403,11 @@ html.wl-open,html.wl-open body{overflow:hidden}
         <div>
           <div class="kicker">Match day · TUE 24 NOV · UK</div>
           <h1 class="logo">Red Hot <span>Tips</span></h1>
+          <div id="rht-online" class="online-pill" hidden aria-live="polite">
+            <i class="online-led" aria-hidden="true"></i>
+            <span class="online-n"></span>
+            <span class="online-l">online now</span>
+          </div>
         </div>
         <span class="pill-stack"><span class="paper-pill">PAPER BETS · NOT REAL MONEY</span><span class="age-pill">18+ ONLY</span></span>
       </div>
@@ -775,6 +788,100 @@ renderSportCounts(); setInterval(renderSportCounts, 60000);
   m.hidden = false; document.documentElement.classList.add("wl-open");
   document.addEventListener("keydown", onKey);
   var ok = m.querySelector(".wl-ok"); if (ok) ok.focus();
+})();
+</script>
+<script>/* Live "online now" counter (25 Nov 2026 02:22 UK).
+   Presence only — talks to wss://presence.hvalec.com (no account, no widget).
+   Cursors, chat and their badge are not loaded. Hides itself if the service is down.
+   Each open tab counts once (sessionStorage id, so a refresh of the same tab stays one). */
+(function () {
+  var ROOM = "rht.monkeymuscle121.github.io/17de1f7291";
+  var badge = document.getElementById("rht-online");
+  if (!badge) return;
+  var countEl = badge.querySelector(".online-n");
+  if (!countEl) return;
+
+  var uid;
+  try {
+    uid = sessionStorage.getItem("rht_online_uid");
+    if (!uid) {
+      uid = (typeof crypto !== "undefined" && crypto.randomUUID)
+        ? crypto.randomUUID()
+        : String(Date.now()) + Math.random().toString(36).slice(2, 10);
+      sessionStorage.setItem("rht_online_uid", uid);
+    }
+  } catch (e) {
+    uid = String(Date.now()) + Math.random().toString(36).slice(2, 10);
+  }
+
+  var url = "wss://presence.hvalec.com/ws?room=" + encodeURIComponent(ROOM)
+    + "&uid=" + encodeURIComponent(uid);
+  var ws = null;
+  var hideTimer = null;
+  var retry = 0;
+  var stopped = false;
+
+  function hide() {
+    badge.hidden = true;
+  }
+
+  function show(n) {
+    if (typeof n !== "number" || !isFinite(n) || n < 1) return;
+    countEl.textContent = String(Math.floor(n));
+    badge.hidden = false;
+    if (hideTimer) {
+      clearTimeout(hideTimer);
+      hideTimer = null;
+    }
+  }
+
+  function scheduleHide() {
+    if (hideTimer) clearTimeout(hideTimer);
+    hideTimer = setTimeout(hide, 8000);
+  }
+
+  function connect() {
+    if (stopped) return;
+    try {
+      ws = new WebSocket(url);
+    } catch (e) {
+      scheduleHide();
+      retrySoon();
+      return;
+    }
+    ws.onmessage = function (ev) {
+      var msg;
+      try { msg = JSON.parse(ev.data); } catch (err) { return; }
+      if (!msg) return;
+      if ((msg.type === "presence" || msg.type === "welcome" || msg.type === "rank")
+          && typeof msg.count === "number") {
+        show(msg.count);
+        retry = 0;
+      }
+    };
+    ws.onclose = function () {
+      if (stopped) return;
+      scheduleHide();
+      retrySoon();
+    };
+    ws.onerror = function () { /* onclose follows */ };
+  }
+
+  function retrySoon() {
+    if (stopped) return;
+    var wait = Math.min(15000, Math.round(1500 * Math.pow(1.6, retry)));
+    retry += 1;
+    setTimeout(connect, wait);
+  }
+
+  function leave() {
+    stopped = true;
+    if (hideTimer) clearTimeout(hideTimer);
+    try { if (ws && ws.readyState <= 1) ws.close(); } catch (e) {}
+  }
+
+  window.addEventListener("pagehide", leave);
+  connect();
 })();
 </script>
 </body>
